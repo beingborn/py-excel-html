@@ -1,5 +1,3 @@
-import openpyxl
-
 # Load excel 
 # 추후 기능 추가로는 해당 요소에 실제 input file이 들어올것임
 wb = openpyxl.load_workbook('test.xlsx')
